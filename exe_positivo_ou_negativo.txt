@@ -1,0 +1,7 @@
+<?php
+$n1 = var_dump(random_int(-999, 999));
+if 
+echo "<h3>" . $msn1 . "</h3>";
+echo "Estude PHP com o " .$msn2 . "br";
+echo "concatenando $valor1 e $valor2 é" .$valor1 .$valor2;
+?>
